@@ -92,3 +92,30 @@ hit(Movie) :-
     genre(Movie, adventure),
     high_rating(Movie),
     many_votes(Movie).
+```
+---
+
+## ✨ Key Takeaways
+
+- ILP achieves competitive accuracy while remaining fully interpretable
+- Multiple success strategies emerge instead of a single dominant factor
+- Symbolic learning is a powerful complement to statistical ML approaches
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- PyGol
+- SWI-Prolog
+- Janus Interface
+- MovieLens Relational Dataset
+
+---
+
+## 👤 Author
+
+Aaditya Singh
+MSc Data Science — University of Surrey
+
+This repository contains the Inductive Logic Programming (ILP) component of a broader MLDM coursework project.
